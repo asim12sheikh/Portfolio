@@ -25,7 +25,7 @@ export const AboutSection = () => {
          <a href="#contact" className="comet-button">
             Get In Touch
          </a>
-         <a target="_blank" rel="noopener noreferrer" href="/Sheikh Wasim Resume.pdf" className="comet-button">
+         <a target="_blank" rel="noopener noreferrer" href="/Sheikh_Wasim_Resume.pdf" className="comet-button">
             Preview CV
          </a>
            </div>
