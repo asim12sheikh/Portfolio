@@ -84,7 +84,7 @@ export const ContactSection = () => {
                  name="name"
                  required
                  className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary "
-                 placeholder="Enter your name..."
+                 placeholder="Enter your name"
                 /> 
             </div>
             <div>
@@ -98,13 +98,13 @@ export const ContactSection = () => {
                 /> 
             </div>
             <div>
-                <label htmlFor="message" className="block text-sm font-medium mb-2">Your Email</label>
+                <label htmlFor="message" className="block text-sm font-medium mb-2">Your Message</label>
                 <input type="message"
                  id="message"
                  name="message"
                  required
                  className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden focus:ring-2 focus:ring-primary resize-none "
-                 placeholder="Tell me what wud u like to Talk about..."
+                 placeholder="Enter your message"
                 /> 
             </div>
 
